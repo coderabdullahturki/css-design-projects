@@ -40,7 +40,7 @@ form button {
     }
 }
 
-@media (min-width: 768px) {
+@media (max-width: 768px) {
     .map-area {
         min-width: 300px;
     }
